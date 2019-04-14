@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "68B12D01AC2345EF5F2ED02C7EE954AB"
+               BlueprintIdentifier = "05FB37828BB6F1905C3A9F4EEEF9E591"
                BlueprintName = "LXLCategoryKit2"
                ReferencedContainer = "container:Pods.xcodeproj"
                BuildableName = "LXLCategoryKit2.framework">

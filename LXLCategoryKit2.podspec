@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LXLCategoryKit2'
-  s.version          = '0.1.0'
+  s.version          = '1'
   s.summary          = 'A short description of LXLCategoryKit2.'
 
 # This description is used to generate tags and improve search results.
